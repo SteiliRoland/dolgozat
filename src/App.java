@@ -1,13 +1,14 @@
 /*
  * File: App.java
  * Created Date: 2021-09-24 22:13:27
- * Author: Sallai Andras
+  * Author: Steili Roland
+ * Original: Sallai Andras
  * Github: https://github.com/andteki
  * -----
- * Last Modified: 2021-09-24
- * Modified By: Sallai Andras
+ * Last Modified: 2021-10-16
+ * Modified By: Steili Roland
  * -----
- * Copyright (c) 2021 Sallai Andras
+ * Copyright (c) 2021 Steili Roland
  * 
  * GNU GPL v2
  */
